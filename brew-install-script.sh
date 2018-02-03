@@ -67,6 +67,7 @@ echo "Installing admintools..."
 brew install wireshark
 brew cask install virtualbox
 brew cask install appcleaner
+brew cask install tigervpn
 
 echo "nicht vergessen Little Snitch zu installieren"
 echo " unter /usr/local/Caskroom/little-snitch/...version/..."
