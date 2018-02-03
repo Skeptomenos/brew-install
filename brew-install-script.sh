@@ -60,6 +60,7 @@ echo "Installing password..."
 # password
 brew cask install 1password
 brew cask install keepassx
+brew cask install boxcryptor
 
 echo "Installing admintools..."
 # admintools
