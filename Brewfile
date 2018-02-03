@@ -1,0 +1,33 @@
+tap "homebrew/core"
+tap "homebrew/bundle"
+tap "caskroom/versions"
+tap "caskroom/cask"
+brew "git"
+brew "mas"
+brew "wireshark"
+cask "appcleaner"
+cask "bartender"
+cask "basecamp"
+cask "bettertouchtool"
+cask "caffeine"
+cask "dropbox"
+cask "fantastical"
+cask "firefox"
+cask "flux"
+cask "google-backup-and-sync"
+cask "google-chrome"
+cask "keepassx"
+cask "little-snitch"
+cask "paste"
+cask "popclip"
+cask "rambox"
+cask "spotify"
+cask "tripmode"
+cask "tunnelblick"
+cask "visual-studio-code"
+cask "vlc"
+mas "Airmail 3", id: 918858936
+mas "HazeOver", id: 430798174
+mas "Paste", id: 967805235
+mas "PopClip", id: 445189367
+mas "Trello", id: 1278508951
