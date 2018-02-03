@@ -22,11 +22,13 @@ cask "paste"
 cask "popclip"
 cask "rambox"
 cask "spotify"
+cask "tigervpn"
 cask "tripmode"
 cask "tunnelblick"
 cask "visual-studio-code"
 cask "vlc"
 mas "Airmail 3", id: 918858936
+mas "Fantastical 2", id: 975937182
 mas "HazeOver", id: 430798174
 mas "Paste", id: 967805235
 mas "PopClip", id: 445189367
