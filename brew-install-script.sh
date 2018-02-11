@@ -68,6 +68,7 @@ brew install wireshark
 brew cask install virtualbox
 brew cask install appcleaner
 brew cask install tigervpn
+brew cask install anycast
 
 echo "nicht vergessen Little Snitch zu installieren"
 echo " unter /usr/local/Caskroom/little-snitch/...version/..."
